@@ -1,0 +1,8 @@
+
+*.zip
+
+.Rhistory
+
+*.plist
+
+data/household_power_consumption.txt
